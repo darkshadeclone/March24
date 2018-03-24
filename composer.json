@@ -1,0 +1,15 @@
+{
+    "name": "nicolai/jobrequisition",
+    "description": "default",
+    "type": "project",
+    "license": "default",
+    "authors": [
+        {
+            "name": "Nicolai Musngi",
+            "email": "nicolainurisvmusngi@tua.edu.ph"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
